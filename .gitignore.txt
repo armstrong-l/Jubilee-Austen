@@ -2,16 +2,3 @@
 Thumbs.db
 
 
-Jubilee-austen-website.pdf
-jubilee-austen html2.png
-julilee-austen html1.png
-julilee-austen html10.png
-julilee-austen html11.png
-julilee-austen html12.png
-julilee-austen html3.png
-julilee-austen html4.png
-julilee-austen html5.png
-julilee-austen html6.png
-julilee-austen html7.png
-julilee-austen html8.png
-julilee-austen html9.png
